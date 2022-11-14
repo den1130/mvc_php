@@ -13,6 +13,6 @@ You can enter the edit or delete page by clicking the "more" button of your post
 
 <img width="1333" alt="2" src="https://user-images.githubusercontent.com/50393483/201679204-f7388610-368e-4ae4-865b-9c7644fa5359.png">
 
-This repository includes some .htaccess files which isn't uploaded here.
+This repository should include ".htaccess" files which aren't uploaded.
 Please refer to the download link below:
 https://drive.google.com/file/d/1O7wD5lTcpacsWY6JEwSGHJZ6Kbm2JUz9/view?usp=share_link
