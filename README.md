@@ -1,6 +1,6 @@
 # mvc_php
-Share your thoughts here!
-This is a website where registered users can post their thoughts.
+Share your thoughts here! \n
+This is a website where registered users can post their thoughts. \n
 Users can also edit or delete their posts published already.
 
 Here is how it looks like:
@@ -16,3 +16,5 @@ You can enter the edit or delete page by clicking the "more" button of your post
 This repository should include ".htaccess" files which aren't uploaded.
 Please refer to the download link below:
 https://drive.google.com/file/d/1O7wD5lTcpacsWY6JEwSGHJZ6Kbm2JUz9/view?usp=share_link
+
+This is a project for learning MVC model and PHP OOP concepts by a Udemy course by Brad Traversy.
