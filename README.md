@@ -1,7 +1,7 @@
 # mvc_php
-Share your thoughts here! \n
-This is a website where registered users can post their thoughts. \n
-Users can also edit or delete their posts published already.
+Share your thoughts here! <br />
+This is a website where registered users can post their thoughts. <br />
+Users can also edit or delete their posts published already. <br />
 
 Here is how it looks like:
 
